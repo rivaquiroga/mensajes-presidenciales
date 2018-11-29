@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543509265055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3754533721",
+    "id" : "EA6680BD",
+    "lastKnownWriteTime" : 1543514555,
+    "last_content_update" : 1543514555911,
+    "path" : "~/github/mensajes-presidenciales/analisis_de_discursos.R",
+    "project_path" : "analisis_de_discursos.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
